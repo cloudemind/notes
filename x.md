@@ -11,7 +11,7 @@ In this phase, we aim to:
 3. Vendor evaluation with the criteria (Vendor ranking)
 4. Build a culture of creativity & Talent Seed (Talend Hub)
 
-**Outcomes**
+#### Outcomes
 1. IT infrastructure report in Number (Human Resources, Application, Hardware, Architecture, Technology, Operation Cost, Security)
 2. Project pipeline: Status, Issues, Risks, Technology, Vendor, Vendor Resources, SoW, Contract
 3. Vendor Evaluation Report & Improvement suggestions
@@ -19,14 +19,23 @@ In this phase, we aim to:
 5. X Talent Seed / Talent Hub - Recruiting & Developing students (5-10 students)
 6. Hiring 2-3 mid/senior IT member to be onboard
 
-**How**
-X Talent Seed / Talent Hub Job Description
+#### How
+_X Talent Seed / Talent Hub Job Description_
 
-$ DO Require:
-1. 3rd year of student at least
-2. Understand a programing language
-3. Willing to learn new technology
-4. Can invest 12-15 hours per day for technology
--
+**$ DO Require**:
+1. 3rd year of good attitude student at least
+2. Understand a programing language at least
+3. Can invest **12-15 hours per day** for technology
+
+**$ DO NOT Require**:
+1. High score 
+2. Any certification
+
+**$ Apply**:
+
+- Submit a pet project by your preferred language
+- Submit a letter and reason to apply
+
+
 
 

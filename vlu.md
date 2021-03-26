@@ -13,6 +13,6 @@ In this phase, we aim to:
 5. Build a culture of creativity & Talent Seed (Talend Hub)
 
 Outcomes:
-1. IT infrastructure report (People, Application, Architecture, Technology, Operation Cost, Security)
+1. IT infrastructure report in Number (Human Resources, Application, Hardware, Architecture, Technology, Operation Cost, Security)
 2. 
 

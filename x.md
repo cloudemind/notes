@@ -36,7 +36,7 @@ In this phase, we aim to:
 - Submit a pet project by your preferred language
 - Submit a letter and reason to apply
 
-In long term, consider to coordinate with teachers to form some student team to do X hackathon.
+In long term, consider to coordinate with teachers to form some student teams to do X hackathon.
 
 #### 2. X Creativity
 
@@ -49,7 +49,6 @@ Utilize X Communication Team to announce a X Creative Ideas program
   - Likes + Comments
   - Voted by PMO / Leaders
 
-#### 3. 
 
 ###  RISKs
 
@@ -94,6 +93,22 @@ Who is the customer of X? the parent or student choice?
 
 - Parent can see the score via mobile app - FREE
 - Parent can see the score via SMS - FEE
+
+
+**4. Lift jam**
+
+- Possible issues: high traffic during some hour, during some subjects at the same time
+- Level of building: For example 10 levels 
+  - Identify which hour is more busy. Eg: 8-10am, 2-3pm
+  - Root cause of issue: too many big subject happens in the same time, same floor
+- Possible solution:
+  1. Collect data and restructure subjects in the low-peak hour
+  2. Optimize lift behavior
+    - Identify most busy floor at peak hour
+    - Low traffic floor can walk. Eg: In the low level (1, 2, 3) will walk during the peak hour
+    - High traffic floor (Eg: floor 4-8):
+      - Left lift: Allow to go to 4-5 floor only
+      - Right lift: Allow to go to 6-10 floor only
 
 
 ... to be updating...

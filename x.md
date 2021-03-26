@@ -92,7 +92,10 @@ Some advanced analytics:
 
 Who is the customer of X? the parent or student choice?
 
-Parent can see the score via mobile app - FREE
-Parent can see the score via SMS - FEE
+- Parent can see the score via mobile app - FREE
+- Parent can see the score via SMS - FEE
+
+
+... to be updating...
 
 

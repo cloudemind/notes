@@ -20,7 +20,7 @@ In this phase, we aim to:
 6. Hiring 2-3 mid/senior IT member to be onboard
 
 #### HOW
-_1. X Talent Seed / Talent Hub Job Description_
+#### 1. X Talent Seed / Talent Hub Job Description
 
 **$ DO Require**:
 1. 3rd year of good attitude student at least
@@ -38,7 +38,7 @@ _1. X Talent Seed / Talent Hub Job Description_
 
 In long term, consider to coordinate with teachers to form some student team to do X hackathon.
 
-_2. X Creativity_
+#### 2. X Creativity
 
 Utilize X Communication Team to announce a X Creative Ideas program
 
@@ -49,5 +49,43 @@ Utilize X Communication Team to announce a X Creative Ideas program
   - Likes + Comments
   - Voted by PMO / Leaders
 
+#### 3. 
+
+###  RISKs
+
+- Current team is not willing or doesn't have the IT infrastructure: number of application, number of services, hardware, network topo..
+- Top leaders to be support and engage in the activities 
+- Physical location is far the center of city
+
+### Build Ideas
+
+**1. Mobile application to support leaders understand the current situation in everywhere, anytime**
+  1. Main KPIs of employee, teacher
+  2. Student real-time statistic
+  3. Cashflow
+
+**2. Student App to see whole learning journey**
+  - Student General Information
+  - Subjects & Status
+  - Subject agenda
+  - Recommended materials
+  - Lesson from previous students to pass the subject - advanced feature
+  - Subject Score
+  - Register a subject, payment
+  - Rating teacher
+  - Register a teacher for particular subject
+  - Student can see teacher profile and previous rating by other students
+  - Competency analysis (strong points, weak points & recommendation) - advanced feature
+  - Ranking in the class
+  - Learning Process statistic (Eg: 70% completed)
+
+Some advanced analytics:
+
+- Online users per day
+- Total used open app per day
+- Average used app per student per month 
+- Most features used
+- Most student majors used
+- Journey & duration
 
 

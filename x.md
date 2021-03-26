@@ -110,6 +110,21 @@ Who is the customer of X? the parent or student choice?
       - Left lift: Allow to go to 4-5 floor only
       - Right lift: Allow to go to 6-10 floor only
 
+**5. Lunch Meal Jam**
+
+This is a common issue for every industry.
+
+Root causes:
+1. High customers queue, Low providers queue
+2. Not in line
+
+Possible solution:
+1. Airport queue
+2. Barcode buying 
+3. Well-prepare food/combo in advanced
+4. Self-service some activities without queue
+5. Separated provider queue: eating, drinking and even more (noodle separated with rice...)
+6. Part-time supporter during peak hour only to increase provider queue
 
 ... to be updating...
 

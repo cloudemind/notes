@@ -11,7 +11,7 @@ In this phase, we aim to:
 3. Vendor evaluation with the criteria (Vendor ranking)
 4. Build a culture of creativity & Talent Seed (Talend Hub)
 
-#### Outcomes
+#### OUTCOMES
 1. IT infrastructure report in Number (Human Resources, Application, Hardware, Architecture, Technology, Operation Cost, Security)
 2. Project pipeline: Status, Issues, Risks, Technology, Vendor, Vendor Resources, SoW, Contract
 3. Vendor Evaluation Report & Improvement suggestions
@@ -19,8 +19,8 @@ In this phase, we aim to:
 5. X Talent Seed / Talent Hub - Recruiting & Developing students (5-10 students)
 6. Hiring 2-3 mid/senior IT member to be onboard
 
-#### How
-_X Talent Seed / Talent Hub Job Description_
+#### HOW
+_1. X Talent Seed / Talent Hub Job Description_
 
 **$ DO Require**:
 1. 3rd year of good attitude student at least
@@ -36,6 +36,18 @@ _X Talent Seed / Talent Hub Job Description_
 - Submit a pet project by your preferred language
 - Submit a letter and reason to apply
 
+In long term, consider to coordinate with teachers to form some student team to do X hackathon.
+
+_2. X Creativity_
+
+Utilize X Communication Team to announce a X Creative Ideas program
+
+- Any student can apply ideas to improve X University
+- Dont limit number of ideas per student
+- PMO will select top 10 ideas and announce on the main fanpage 
+- Rewards
+  - Likes + Comments
+  - Voted by PMO / Leaders
 
 
 

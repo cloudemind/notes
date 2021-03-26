@@ -88,4 +88,9 @@ Some advanced analytics:
 - Most student majors used
 - Journey & duration
 
+**3. Parent App**
+Who is the customer of X? the parent or student choice?
+Parent can see the score via mobile app - FREE
+Parent can see the score via SMS - FEE
+
 

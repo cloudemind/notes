@@ -103,12 +103,13 @@ Who is the customer of X? the parent or student choice?
   - Root cause of issue: too many big subject happens in the same time, same floor
 - Possible solution:
   1. 1/ Collect data and restructure subjects in the low-peak hour
-  2. 2/ Optimize lift behavior
+  2. 2/ Restructure the high peak subjects at high peak floor to low floor and walk (not using lift)
+  3. 3/ Optimize lift behavior
     - Identify most busy floor at peak hour
     - Low traffic floor can walk. Eg: In the low level (1, 2, 3) will walk during the peak hour
     - High traffic floor (Eg: floor 4-8):
-      - Left lift: Allow to go to 4-5 floor only
-      - Right lift: Allow to go to 6-10 floor only
+      - Left lift: Allow to go to 4-6 floor only
+      - Right lift: Allow to go to 7-10 floor only
 
 **5. Lunch Meal Jam**
 

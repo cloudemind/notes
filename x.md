@@ -102,8 +102,8 @@ Who is the customer of X? the parent or student choice?
   - Identify which hour is more busy. Eg: 8-10am, 2-3pm
   - Root cause of issue: too many big subject happens in the same time, same floor
 - Possible solution:
-  1. Collect data and restructure subjects in the low-peak hour
-  2. Optimize lift behavior
+  1. 1/ Collect data and restructure subjects in the low-peak hour
+  2. 2/ Optimize lift behavior
     - Identify most busy floor at peak hour
     - Low traffic floor can walk. Eg: In the low level (1, 2, 3) will walk during the peak hour
     - High traffic floor (Eg: floor 4-8):
